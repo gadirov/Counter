@@ -15,5 +15,4 @@ export default function Counter() {
         <button onClick={() => dispatch(incrementX(10))}>10+</button>
         <button onClick={() => dispatch(incrementX(20))}>20+</button>
     </div>
-  )
-}
+  )}
